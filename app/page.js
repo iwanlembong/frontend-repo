@@ -1,3 +1,5 @@
+'use client';  // This directive tells React this component is a Client Component
+
 import Image from "next/image";
 import styles from "./page.module.css";
 
